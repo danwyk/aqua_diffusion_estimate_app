@@ -14,7 +14,7 @@ Vue2, Kriging, OpenLayers, Echart, Element-UI, Electron, Nodejs
 ---
 
 ### Credits
-By Daniel Wang <danwyk.wang@gmail.com>   
+By Daniel Wang <danwyk.wang@gmail.com> / <wangyikai@aquahelpers.com>  
 
 ---
 
