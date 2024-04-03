@@ -1,7 +1,6 @@
+## 水环境污染物扩散模型 - Demo / Water Environmental Pollutant Diffusion Model - Demo
+### 背景 / Background
 
-| 水环境污染物扩散模型 - Demo  | Water Environmental Pollutant Diffusion Model - Demo |
-|-----------------------------|----------------------------------------------------|
-| ### 背景                    | ### Background                                     |
 | 这是一个水环境污染物扩散的演示模型，用于演示 | This is a demonstration model for the diffusion of water environmental pollutants, intended to demonstrate |
 | * 可溶性污染物              | * Soluble pollutants                               |
 | * 油类污染物                | * Oil pollutants                                   |
