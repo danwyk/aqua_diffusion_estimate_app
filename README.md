@@ -29,19 +29,19 @@ By Daniel Wang <danwyk.wang@gmail.com> / <wangyikai@aquahelpers.com>
 
 ### Demonstration
 * #### 登录界面 / Login Page
-![Demo](https://github.com/danwyk/kriging_diffusion_app/blob/main/login.png)
+![Demo](https://github.com/danwyk/aqua_diffusion_estimate_app/blob/main/login.png)
 
 * #### 自动模拟：初始界面 / Auto Simulation: Star up Page
-![Demo](https://github.com/danwyk/kriging_diffusion_app/blob/main/steady.png)
+![Demo](https://github.com/danwyk/aqua_diffusion_estimate_app/blob/main/steady.png)
 
 * #### 自动模拟：流动河流 + 可溶性污染物 / Auto Simulation: Flowing River + Soluble Pollutants
-![Demo](https://github.com/danwyk/kriging_diffusion_app/blob/main/auto2.png)
+![Demo](https://github.com/danwyk/aqua_diffusion_estimate_app/blob/main/auto2.png)
 
 * #### 自动模拟：静止河流 + 可溶性污染物 / Auto Simulation: Still River + Soluble Pollutants
-![Demo](https://github.com/danwyk/kriging_diffusion_app/blob/main/auto1.png)
+![Demo](https://github.com/danwyk/aqua_diffusion_estimate_app/blob/main/auto1.png)
 
 * #### 手动模拟：初始界面 / Manual Simulation: Startup Page
-![Demo](https://github.com/danwyk/kriging_diffusion_app/blob/main/manual.png)
+![Demo](https://github.com/danwyk/aqua_diffusion_estimate_app/blob/main/manual.png)
 
 * #### 手动模拟：流动河流 + 油类污染物 / Manual Simulation: Flowing River + Oil Pollutants
-![Demo](https://github.com/danwyk/kriging_diffusion_app/blob/main/manual1.png)
+![Demo](https://github.com/danwyk/aqua_diffusion_estimate_app/blob/main/manual1.png)
